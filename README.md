@@ -3,7 +3,7 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/axe_tiny)
 [![Portfolio](https://img.shields.io/badge/-MyPortfolio-grey?style=flat-square&logo=vercel&logoColor=white)](https://CodeBag0923.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-3e91a3?style=for-the-badge&logo=Minutemailer&logoColor=white)](mailto:codemaven0923@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-3e91a3?style=flat-square&logo=Minutemailer&logoColor=white)](mailto:codemaven0923@gmail.com)
 
 ## 🔎 About
 I'm Gonzalo, a Web developer 👨‍💻 who is passionate about JavaScript technologies. 
