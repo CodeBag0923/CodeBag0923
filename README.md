@@ -10,8 +10,6 @@ I am confident that anyone who collaborates with me will be satisfied with the o
 
 ✔I am a senior 👍web developer 👍 with extensive experience in using JavaScript frameworks to create robust web applications. My projects demonstrate a strong understanding of these frameworks, utilizing their capabilities to achieve optimal performance and efficient code. My skills lie in harnessing the power of existing frameworks and tailoring them to meet project requirements. The end result is a high-performing, well-optimized product that showcases my proficiency in web development. With a proven track record, I am confident in my ability to contribute significantly to any web development team.
 
-✔Also as a seasoned 👍blockchain developer👍, I have honed my skills in crafting robust and efficient solutions within the blockchain domain.
-My expertise encompasses the development of high-performance cryptocurrency trading bots and blockchain monitoring systems, delivering significant advantages to clients. Leveraging advanced programming techniques, I optimize code to ensure efficiency. With a deep understanding of market dynamics and blockchain technology, I develop trading bots that execute strategies with lightning-fast response times, enhancing profitability for my clients. Additionally, my blockchain monitoring bots provide real-time insights.
 
 
 [![Gonzalo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeBag0923&show_icons=true&theme=tokyonight&count_private=true&line_height=40)](https://github.com/CodeBag0923)
