@@ -13,19 +13,30 @@ I'm Gonzalo, a Web developer 👨‍💻 who is passionate about JavaScript tech
 [![Gonzalo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBag0923&langs_count=5&theme=tokyonight&exclude_repo=SocketCpp,alirezakeshvari.github.io,DeveloperSite)](https://github.com/CodeBag0923)
 
 
-### Technologies:
-<div style="display: inline_block"><br>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
-  <code><img height="25" src="https://www.svgrepo.com/show/374167/vite.svg"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"></code>  
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
-</div>
+## Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,ruby,php,html,css" />
+</p>
+
+## Frontend Frameworks and Libraries
+<p>
+  <div align="left">      
+    <img src="https://skillicons.dev/icons?i=angular,react,nextjs,vue,nuxtjs,jquery,svelte,bootstrap,tailwind,materialui" />
+  </div>
+</p>
+
+## Backend Frameworks
+<p>
+  <div align="left">      
+    <img src="https://skillicons.dev/icons?i=nest,nodejs,express,django,flask,rails,laravel,symfony,go" />
+  </div>
+</p>
+
+## Databases
+<p>
+  <div align="left">      
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,graphql,firebase,redis" />
+  </div>
+</p>
 
 
