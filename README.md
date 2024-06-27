@@ -8,7 +8,7 @@
 ## 🔎 About
 I am confident that anyone who collaborates with me will be satisfied with the outcome.
 
-✔I am a senior 👍web developer 👍 with extensive experience in using JavaScript frameworks to create robust web applications. My projects demonstrate a strong understanding of these frameworks, utilizing their capabilities to achieve optimal performance and efficient code. My skills lie in harnessing the power of existing frameworks and tailoring them to meet project requirements. The end result is a high-performing, well-optimized product that showcases my proficiency in web development. With a proven track record, I am confident in my ability to contribute significantly to any web development team.
+✔I am a senior 👍web developer 👍 with extensive experience in using <b>JavaScript/TypeScript/Python</b> frameworks/libraries to create robust web applications. My projects demonstrate a strong understanding of these frameworks/libraries, utilizing their capabilities to achieve optimal performance and efficient code. My skills lie in harnessing the power of existing frameworks and tailoring them to meet project requirements. The end result is a high-performing, well-optimized product that showcases my proficiency in web development. With a proven track record, I am confident in my ability to contribute significantly to any web development team.
 
 
 ## Programming Languages
